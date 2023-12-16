@@ -5,10 +5,10 @@
   </a>
 </p>
 
-> **N**IKA is an **I**ntelligent **K**nowledge-driven **A**ssistant
+> **Intelligent help system for artificial neural networks**
 
 ## About
-NIKA is an ostis-system designed with [OSTIS Technology principles](https://github.com/ostis-ai) in mind. 
+Intelligent help system for artificial neural networks is an ostis-system designed with [OSTIS Technology principles](https://github.com/ostis-ai) in mind. 
 
 You can learn more about it by asking the assistant: "What's NIKA?"
 
