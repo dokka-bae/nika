@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to NIKA 👋</h1>
+<h1 align="center">Welcome Intelligent help system for artificial neural networks👋</h1>
 <p>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
     <img alt="GPLv3" src="https://img.shields.io/badge/License-GPLv3-yellow.svg" />
