@@ -1,7 +1,6 @@
 import argparse
 from sc_kpm import ScServer
-from modules.messageProcessingModule.MessageProcessingModule import MessageProcessingModule
-
+from modules.messageProcessingModule.AgentGptProcessingModule import AgentGptProcessingModule
 from pathlib import Path
 
 SC_SERVER_PROTOCOL = "protocol"
@@ -19,7 +18,7 @@ def main(args: dict):
 
     with server.connect():
         modules = [
-            MessageProcessingModule()
+            AgentGptProcessingModule()
         ]
         server.add_modules(*modules)
         with server.register_modules():
